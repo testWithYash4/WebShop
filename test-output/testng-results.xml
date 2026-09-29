@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-07-22T12:56:32 IST" name="Suite" finished-at="2026-07-22T12:57:21 IST" duration-ms="48753">
+  <suite started-at="2026-09-29T16:59:38 IST" name="Default suite" finished-at="2026-09-29T17:00:09 IST" duration-ms="30938">
     <groups>
     </groups>
-    <test started-at="2026-07-22T12:56:32 IST" name="Test" finished-at="2026-07-22T12:57:21 IST" duration-ms="48753">
+    <test started-at="2026-09-29T16:59:38 IST" name="Default test" finished-at="2026-09-29T17:00:09 IST" duration-ms="30938">
       <class name="Base.WebShop_Assignment">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:Base.WebShop_Assignment@305b7c14]" started-at="2026-07-22T12:56:32 IST" name="setUp" finished-at="2026-07-22T12:56:48 IST" duration-ms="15488" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Base.WebShop_Assignment@4d1c00d0]" started-at="2026-09-29T16:59:38 IST" name="setUp" finished-at="2026-09-29T16:59:50 IST" duration-ms="12393" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testlogin()[pri:0, instance:Base.WebShop_Assignment@305b7c14]" started-at="2026-07-22T12:56:48 IST" name="testlogin" finished-at="2026-07-22T12:57:21 IST" duration-ms="33177" status="PASS">
+        <test-method signature="testlogin()[pri:0, instance:Base.WebShop_Assignment@4d1c00d0]" started-at="2026-09-29T16:59:50 IST" name="testlogin" finished-at="2026-09-29T17:00:09 IST" duration-ms="18433" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testlogin -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:Base.WebShop_Assignment@305b7c14]" started-at="2026-07-22T12:57:21 IST" name="tearDown" finished-at="2026-07-22T12:57:21 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Base.WebShop_Assignment@4d1c00d0]" started-at="2026-09-29T17:00:09 IST" name="tearDown" finished-at="2026-09-29T17:00:09 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- Base.WebShop_Assignment -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

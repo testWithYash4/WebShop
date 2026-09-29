@@ -74,11 +74,7 @@
 			<!--<scope>test</scope>-->
 		</dependency>
 
-		<dependency>
-			<groupId>Cucum_Demo3_PomPage</groupId>
-			<artifactId>Cucum_Demo3_PomPage</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+		
 	</dependencies>
 	
 	<build>
